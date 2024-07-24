@@ -23,6 +23,7 @@ public class NewNiki {
            return;
        } catch (Exception e) {
            System.debug(e.getMessage());
+           system.debug('ThirdComponents');
        }
    }
     
