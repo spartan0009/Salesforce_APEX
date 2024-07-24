@@ -1,6 +1,6 @@
 public class NikiApexclass {
     public static void NikiApexclass() {
-        system.debug('Hello World!');
+        system.debug('Niki This is a testing');
     }
 
 }
