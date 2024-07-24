@@ -3,6 +3,7 @@ public class NikiApexclass {
         system.debug('Niki This is a testing2');
         system.debug('This is a small change testing');
         system.debug('ThirdComponents');
+        system.debug('Testingnew commitsin it');
     }
 
 }
